@@ -10,7 +10,7 @@ WHERE ID IN
 (
 50514, -- Shall Shell
 50516  -- Istiridye
-)
+);
 
 -- This section enables the Synthesis recipes for items dropped by Notorious
 -- Monsters from the Wings of the Goddess expansion. These NMs will be enabled
@@ -51,4 +51,4 @@ WHERE Result IN
 15849, -- Krousis Ring - Imperial Topaz - NM: Huwasi
 16373, -- Kyoshu Sitabaki - Lineadach - NM: Sengann
 11407  -- Mettle Leggings - Samwell's Shank - NM: Slumbering Samwell
-)
+);
